@@ -1,0 +1,32 @@
+.spicy-font {
+  font-family: 'Spicy Rice', cursive;
+}
+
+.shadows-light {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+html,
+body {
+  background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/30/75/7OvHoS.jpeg");
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/* .lighten-nav {
+  opacity: 0.5;
+} */
+
+.word {
+  word-wrap: break-word;
+}
+
+.icon-github {
+  color: black;
+}
+
+.card-footer {
+  text-align: center;
+}
